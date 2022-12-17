@@ -62,5 +62,5 @@ export default {
 };
 </script>
 
-<style>
+<style  lang="scss" src="@/scss/main.scss">
 </style>
